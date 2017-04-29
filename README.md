@@ -1,7 +1,8 @@
 # Math.js
 An extension for JavaScript's Math object. Includes Average, MAD, and more! I lazily wrote this so I could automate my online work during 11th grade. I'll probably add more to this as I need it.
 
-Functions - 
+### Functions - 
+
 `Math.avg` - Input: List of numbers. Output: Average.
 
 `Math.mad` - Input: List of numbers. Output: Mean Absolute Deviation
