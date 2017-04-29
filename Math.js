@@ -15,9 +15,7 @@ Math.mad = function(li) {
 
 Math.range = function(min, max, step) {
     var li = [];
-    for (var x = min; x <= max; x += step || 1) {
-        li.push(x);
-    }
+    for (var x = min; x <= max; x += step || 1) li.push(x);
     return li;
 };
 
