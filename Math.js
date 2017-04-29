@@ -20,3 +20,7 @@ Math.range = function(min, max, step) {
     }
     return li;
 };
+
+Math.randomChoice = function(li) {
+    return li[Math.floor( Math.random() * li.length )];
+};
